@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 import generics.BaseTest;
 
-public class swork extends BaseTest {
+public class D1 extends BaseTest {
 @Test
 public static void Demo1()	
 {
