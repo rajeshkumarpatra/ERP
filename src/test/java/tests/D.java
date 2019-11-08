@@ -8,6 +8,6 @@ public class D
 	@Test
     public static void work()
     {
-    	Reporter.log("HI dude", true);
+    	Reporter.log("Hi dude", true);
     }
 }
